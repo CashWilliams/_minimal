@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.org/bryanhirsch/_minimal-instance.png?branch=master)](https://travis-ci.org/bryanhirsch/_minimal-instance)
+[![Build Status](https://travis-ci.org/cashwilliams/_minimal-instance.png?branch=master)](https://travis-ci.org/cashwilliams/_minimal-instance)
 
 This is an instance of a minimal_ci site.
 
-Install profile: https://github.com/bryanhirsch/minimal_ci
+Install profile: https://github.com/cashwilliams/minimal_ci
 
-Site repo: https://github.com/bryanhirsch/_minimal
+Site repo: https://github.com/cashwilliams/_minimal
 
 Build a fresh site:
   $ ant
